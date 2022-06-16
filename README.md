@@ -1,6 +1,6 @@
 # pratica_3
 
-A new Flutter project.
+Projeto Prática 3 Flutter, App de pensamentos
 
 ## Getting Started
 
